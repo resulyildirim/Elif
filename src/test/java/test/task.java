@@ -19,7 +19,17 @@ public class task {
         System.out.println("Hi from InteliJ");
     }
 
+
     public void goods(){
         System.out.println("Hello mallar");
     }
+
+
+   public void well() {
+   System.out.println("Hello Resul")
+   }
+
+    
+    
+
 }
