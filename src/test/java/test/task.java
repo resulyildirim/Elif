@@ -18,15 +18,13 @@ public class task {
     public  void hi( ) {
         System.out.println("Hi from InteliJ");
     }
-
-
     public void goods(){
         System.out.println("Hello mallar");
     }
 
 
    public void well() {
-   System.out.println("Hello Resul")
+   System.out.println("Hello Resul");
    }
 
     
