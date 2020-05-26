@@ -18,4 +18,8 @@ public class task {
     public  void hi( ) {
         System.out.println("Hi from InteliJ");
     }
+
+    public void goods(){
+        System.out.println("Hello mallar");
+    }
 }
