@@ -8,6 +8,6 @@ public class task {
            //I did new sentences in github
     }
     public String hello(){
-        return "Hello from GitHub";
+        return "Hello everyone from GitHub";
     }
 }
